@@ -16,5 +16,8 @@
 .grupo-radio {
     width: 50%;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
+}
+.grupo-radio .radio:first-child {
+    margin-top: 0;
 }
